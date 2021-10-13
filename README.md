@@ -8,15 +8,10 @@ This project is simple trivia quiz page. The project utilizes an authenticated l
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* PHP
+* CSS
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally & run login.php :
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+
